@@ -1,0 +1,32 @@
+body{
+    background-image:linear-gradient(to bottom,rgba(139, 217, 231, 0.699),rgb(219, 151, 199),#ffff);
+    }
+
+.main-container{
+    display: flex;
+   justify-content: center;
+   
+}
+.head{
+    
+    height: 60px;
+    border-radius: 50px;
+    font-style: italic;
+ text-decoration: underline;
+ text-shadow: rgb(0, 255, 247) 2px 2px;
+
+}
+.buttons{
+    display: flex;
+    align-items: center;
+   justify-content: center;
+   gap: 72px; 
+}
+.b{
+    height: 60px;
+    border-radius: 50px;
+    font-style: italic;
+    background-image:linear-gradient(hotpink,pink) ;
+    font-size: 20px;
+}
+

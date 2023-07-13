@@ -1,0 +1,23 @@
+.container{
+    width: 600px;
+    height: 320px;
+    border-radius: 30px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image:linear-gradient(#2715ca,rgba(0, 234, 255, 0.498)) ;
+    position: relative;
+    top: 220px;
+    left: 60px;
+    box-shadow: 12px 12px rgba(0, 0, 0, 0.379);
+   
+}
+.para{
+    text-shadow: pink 2px 2px;
+   
+}
+.head1{
+  font-size: 25px;
+}
