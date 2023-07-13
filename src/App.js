@@ -1,4 +1,4 @@
-import React,{useState} from 'react'
+ import React,{useState} from 'react'
 import "./App.css"
 import FuncCompo from './HandsonOne/FunctionCompo';
 import ClassCompo from './HandsonOne/ClassCompo'
